@@ -6,7 +6,7 @@ export default component$(() => {
   return (
     <div>
       <h1>
-        Welcome to Qwik <span class="lightning">⚡️</span>
+        Welcome Swapnil Srivastava to Qwik <span class="lightning">⚡️</span>
       </h1>
 
       <ul>
